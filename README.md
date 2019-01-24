@@ -7,6 +7,9 @@ This React search tool scours the googleverse for pictures of your chosen book a
 2.  Enter the name of a book in the "Search For a Book" input box
 3.  Click "Run Search" and voila! Here are examples of the app's functionality
 ![image](https://user-images.githubusercontent.com/41309640/51710351-e2437b80-1ff6-11e9-9942-d66b00dfcbe0.png)
+
+![image](https://user-images.githubusercontent.com/41309640/51712460-cb078c80-1ffc-11e9-9e73-8cda71e2ecd9.png)
+
 4.  You are able to save books and refer to your saved items in the "View Saved Books" button in the Navbar
 ![image](https://user-images.githubusercontent.com/41309640/51712126-d0180c00-1ffb-11e9-9369-9dabd57349cd.png)
 
